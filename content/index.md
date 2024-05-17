@@ -1,5 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Home Page
 ---
-
-Welcome to a Change of Scenery
+If you are lost, feel free to read the [[Basic Notes]] about the campaign.

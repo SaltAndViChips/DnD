@@ -1,11 +1,20 @@
+---
+title: Basic Notes
+tags:
+  - General
+draft: false
+---
+# Dungeon Master:
+## Salt & Vi (Salt or Brandon)
+
 
 # Player Characters: 
 
 ### Tekra Tlalic - Moose
-**Tiefling Druid
+Tiefling Druid
 
 ### - Tristan
-**Dwarf Barbarian
+Dwarf Barbarian 
 
 ### - Kodiak
 
@@ -17,10 +26,9 @@
 ## Notable Locations:
 
 ## Continent:
-**Celesion
+[[Celesion]]
 
 ### Towns:
-
 [[Lullin]]
 [[Danaus]]
 [[Banu]]
