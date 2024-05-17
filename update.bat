@@ -1,3 +1,3 @@
 g:
-cd G:\Obsidian\camp1
+cd Obsidian\camp1
 npx quartz sync
