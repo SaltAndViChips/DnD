@@ -2,7 +2,7 @@
 title: Basic Notes
 tags:
   - General
-draft: true
+draft: false
 ---
 # Dungeon Master:
 ## Salt & Vi (Salt or Brandon)
@@ -14,7 +14,6 @@ draft: true
 Tiefling Druid
 
 ### - Tristan
-Dwarf Barbarian 
 
 ### - Kodiak
 
