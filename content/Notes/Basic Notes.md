@@ -3,6 +3,7 @@ title: Basic Notes
 tags:
   - General
 draft: true
+hidden: true
 ---
 # Dungeon Master:
 ## Salt & Vi (Salt or Brandon)
