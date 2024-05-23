@@ -33,21 +33,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-const explorerFilterFn = (node: FileNode) => {
-  return !["tags", "university"].some((path) => node.name.includes(path))
-}
-export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.ArticleTitle()],
-  left: [
-    Component.Meta({ enableSearch: false, enableDarkMode: false }),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({ filterFn: explorerFilterFn })),
-  ],
-  right: [],
-}
-
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
