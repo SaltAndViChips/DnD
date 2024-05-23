@@ -17,6 +17,7 @@ Tiefling Druid
 Dwarf Barbarian 
 
 ### - Kodiak
+Tortle Wild Magic Sorcerer
 
 ### - Koopas
 
