@@ -4,7 +4,9 @@ draft: false
 tags:
   - General
   - Secret
-hidden: "True"
+  - hidden
+  - noindex
+hidden:
 ---
  Deity pretending to be a mortal walking about in the North. 
  
