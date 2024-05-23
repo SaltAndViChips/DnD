@@ -45,8 +45,3 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
-
-//
-const noindexFlag: boolean = vfile.data?.frontmatter?.hidden ?? false
- 
-
