@@ -45,6 +45,8 @@ The elves are planning to purge the Drow, gnomes, halflings and Tieflings from t
 
 All birds are druids
 
+The Elves are trying to ban Flintlocks and Cannons!
+
 The squirrels are all mind controlled by the Druids and Warlocks from the Underside (Equivalent to the Underdark)
 
 All of the blacksmiths are replacing the copper in equipment with mud.
