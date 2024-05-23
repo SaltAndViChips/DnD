@@ -11,11 +11,6 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-const explorerFilterFn = (node: FileNode) => {
-  return ![noindexFlag].some((path) => node.name.includes(path))
-}
-
-
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
