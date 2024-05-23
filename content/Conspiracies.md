@@ -8,7 +8,7 @@ tags:
   - noindex
 hidden:
 ---
- Deity pretending to be a mortal walking about in the North. 
+Deity pretending to be a mortal walking about in the North. 
  
  Cities disappearing and replaced by towers. (Being Covered by the Government) 
  
