@@ -24,7 +24,20 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+  filterFn: (node) => {
+    if (!node.file) {
+      // the current node is a folder
+      let indexFile = node.children.find((node) => node.name === "index")
+      if (indexFile) {
+        // a child node named index exists
+        return indexFile?.file?.frontmatter?.tags?.includes("excluded") !== true
+      }
+    }
+
+    return true
+  },
+})),
   ],
   right: [
     Component.Graph(),
@@ -41,7 +54,22 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+  filterFn: (node) => {
+    if (!node.file) {
+      // the current node is a folder
+      let indexFile = node.children.find((node) => node.name === "index")
+      if (indexFile) {
+        // a child node named index exists
+        return indexFile?.file?.frontmatter?.tags?.includes("excluded") !== true
+      }
+    }
+
+    return true
+  },
+})),
   ],
   right: [],
 }
+
+
