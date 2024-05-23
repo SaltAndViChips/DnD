@@ -1,11 +1,7 @@
 ---
 title: THE REAL TRUTH THAT THE WORLD HASN'T FIGURED OUT YET!
 draft: false
-tags:
-  - General
-  - Secret
-  - hidden
-  - noindex
+tags: []
 hidden: true
 ---
 Deity pretending to be a mortal walking about in the North. 
