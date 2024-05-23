@@ -1,7 +1,7 @@
-import { QuartzFilterPlugin } from "../types"
-
+const noindexFlag: boolean = vfile.data?.frontmatter?.hidden ?? false
+ 
 const explorerFilterFn = (node: FileNode) => {
-  return !["tags", "noindex"].some((path) => node.name.includes(path))
+  return ![noindexFlag].some((path) => node.name.includes(path))
 }
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle()],

@@ -45,3 +45,11 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+//
+const noindexFlag: boolean = vfile.data?.frontmatter?.hidden ?? false
+ 
+const explorerFilterFn = (node: FileNode) => {
+  return ![noindexFlag].some((path) => node.name.includes(path))
+}
+
