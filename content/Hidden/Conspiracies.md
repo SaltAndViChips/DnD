@@ -8,7 +8,7 @@ Deity pretending to be a mortal walking about in the North.
  
  Cities disappearing and replaced by towers. (Being Covered by the Government) 
  
- Great Mage of Venthrial is missing - common knowledge
+ Great Mage Venthrial is missing - Well known (Abducted by Aliens???)
 
 The elves are planning to purge the Drow, gnomes, halflings and Tieflings from their forests.
 
