@@ -1,3 +1,5 @@
+import { QuartzFilterPlugin } from "../types"
+
 const explorerFilterFn = (node: FileNode) => {
   return !["tags", "noindex"].some((path) => node.name.includes(path))
 }
