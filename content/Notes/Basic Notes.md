@@ -24,11 +24,14 @@ Tortle Wild Magic Sorcerer
 
 ### Snad - Koopas
 [Sheet](https://www.dndbeyond.com/characters/124783447)
+Warlock Kobold
 
 ### Mike - Murblub
 [Sheet](https://www.dndbeyond.com/characters/124901765)
+Changling Rogue
 
 ## Notable Locations:
+
 
 ## Continent:
 [[Celesion]]
