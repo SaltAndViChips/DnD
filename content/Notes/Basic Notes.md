@@ -14,16 +14,19 @@ hidden: false
 ### Tekra Tlalic - Moose
 Tiefling Druid
 
-### - Tristan
+### Tjorborn - Tristan
+[Sheet](https://www.dndbeyond.com/characters/124479641)
 Dwarf Barbarian 
 
-### - Kodiak
+### Char - Kodiak
+[Sheet](https://www.dndbeyond.com/characters/124693060)
 Tortle Wild Magic Sorcerer
 
-### - Koopas
+### Snad - Koopas
+[Sheet](https://www.dndbeyond.com/characters/124783447)
 
-### - Murblub
-
+### Mike - Murblub
+[Sheet](https://www.dndbeyond.com/characters/124901765)
 
 ## Notable Locations:
 
