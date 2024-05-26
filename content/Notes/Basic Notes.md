@@ -2,7 +2,7 @@
 title: Basic Notes
 tags:
   - General
-draft: true
+draft: false
 hidden: false
 ---
 # Dungeon Master:
