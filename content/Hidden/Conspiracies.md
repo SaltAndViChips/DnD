@@ -37,7 +37,7 @@ The ocean didn't exist until [[Venthrial]] used create water A LOT.
 Dragons are actually all just polymorphed wizards, Dragons don't exist.
 
 The whole continent is secretly controlled by Sahuagin
-![[Pasted image 20240523004704.jpg]]
+![[Frogmen.jpg]]
 
 All other spellcasters are actually Warlocks who lack the confidence to admit they can't do magic on their own.
 
@@ -52,4 +52,4 @@ The squirrels are all mind controlled by the Druids and Warlocks from the Unders
 All of the blacksmiths are replacing the copper in equipment with mud.
 
 A Bake Kujira has been spotted on the shorelines between the [[Wroughtlands]] and [[later/Locations/Ashgrove/Banu]]
-![[deckofhorrorsii-005.jpg]]
+![[Kujira.jpg]]
