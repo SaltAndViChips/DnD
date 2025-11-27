@@ -37,9 +37,9 @@ Changling Rogue
 [[Celesion]]
 
 ### Towns:
-[[Lullin]]
+[[Lullin (Dev)]]
 [[Danaus]]
-[[Banu]]
+[[later/Locations/Ashgrove/Banu]]
 
 ### Plot Points:
 [[Changing of Leaves]]

@@ -4,9 +4,9 @@ draft: false
 tags: []
 hidden: true
 ---
-Slipper Phil's hotdogs are secretly poisoning everyone who eats them.
+Slippery Phil's hotdogs are secretly poisoning everyone who eats them.
 
-The moon is a mimic
+The moon is a mimic.
 
 Healing magic stunts your growth.
 
@@ -16,7 +16,7 @@ Everyone in Frey is a Dragon disguised as a Human.
 
 Sickness was invented by priests to sell cure spells.
 
-The Dwarves have kidnapped and are trying to ransom back one of the daughters of Artorious, the Sultan of Banu (The largest economic city, majority Humans)
+The Dwarves have kidnapped and are trying to ransom back one of the daughters of [[Artorious]], the Sultan of [[later/Locations/Ashgrove/Banu]]
 
 Gnomes are just dwarves that can't grow beards.
 
@@ -30,9 +30,9 @@ Great Mage Venthrial is missing - Well known (Abducted by Aliens???)
 
 Slippery Phil's hotdogs can cure ANY affliction.
 
-The crew of the Golden Smile (Pirates) have gone off-the-grid (Potentially the ones who kidnapped the daughter of Artorious)
+The crew of the [[Golden Smile]]  have gone off-the-grid (Potentially the ones who kidnapped the daughter of [[Artorious]])
 
-The ocean didn't exist until Venthrial used create water A LOT.
+The ocean didn't exist until [[Venthrial]] used create water A LOT.
 
 Dragons are actually all just polymorphed wizards, Dragons don't exist.
 
@@ -51,5 +51,5 @@ The squirrels are all mind controlled by the Druids and Warlocks from the Unders
 
 All of the blacksmiths are replacing the copper in equipment with mud.
 
-A Bake Kujira has been spotted on the shorelines between the Wroughtlands and Banu
+A Bake Kujira has been spotted on the shorelines between the [[Wroughtlands]] and [[later/Locations/Ashgrove/Banu]]
 ![[deckofhorrorsii-005.jpg]]
