@@ -1,0 +1,7 @@
+[[Gluttony]]
+[[Greed]]
+[[Wrath (War)]]
+[[Envy]]
+[[Lust]]
+[[Sloth (Lot)]]
+[[Pride]]

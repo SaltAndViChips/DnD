@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b753a8ef8b610aeb","type":"file","file":"Areas/Ashgrove/Greatmarsh.md","x":-1680,"y":-660,"width":400,"height":400},
+		{"id":"6edc5c828452cc42","type":"file","file":"Areas/Ashgrove/Banu.md","x":-760,"y":-660,"width":400,"height":400},
+		{"id":"864a101c6256db5f","type":"file","file":"Areas/Ashgrove/Forest of Fathoms.md","x":-1215,"y":-660,"width":400,"height":400},
+		{"id":"6f32f939d50c9bee","type":"text","text":"Places","x":-1120,"y":-780,"width":210,"height":50}
+	],
+	"edges":[]
+}
