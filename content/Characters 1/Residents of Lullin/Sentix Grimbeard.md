@@ -4,7 +4,7 @@
 	Sex: Male
 Sentix has a shiny white beard and wears a messy leather apron over a green cotton shirt and a pair of khaki pants.
 
-Sentix is a happy-go-lucky merchant in the town of [[Lullin]].
+Sentix is a happy-go-lucky merchant in the town of [[wiki/content/Locations/Lullin]].
 
 Sentix deals in odds and trinkets, mostly having junk or joke magical items.
 

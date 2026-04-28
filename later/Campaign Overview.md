@@ -1,6 +1,6 @@
 
 Player Characters:
-[[Tekra Tlalic]]
+[[wiki/content/Characters 1/Party Adjacent/Tekra Tlalic]]
 
 
 Antagonists:

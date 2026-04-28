@@ -5,7 +5,7 @@
 	Mother of [[Mist Rey]] and [[Theodore (Crimson) Rey II]]
 
 
-Freya is an Ice Genosi, and the master Blacksmith of [[Lullin]].
+Freya is an Ice Genosi, and the master Blacksmith of [[wiki/content/Locations/Lullin]].
 
 Freya built the frosted roads, and forges many great master crafts for all future heroes.
 

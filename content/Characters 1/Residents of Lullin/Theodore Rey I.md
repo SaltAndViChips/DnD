@@ -3,7 +3,7 @@
 	Height: 10"
 	Age: 300
 
-Theodore runs the Frozen Forge, a tavern in [[Lullin]].
+Theodore runs the Frozen Forge, a tavern in [[wiki/content/Locations/Lullin]].
 
 Theodore has humanoid features from his Goliath lineage, however his body hair consists of deep red scales. 
 

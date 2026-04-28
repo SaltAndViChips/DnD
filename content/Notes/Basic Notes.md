@@ -38,7 +38,7 @@ Tiefling Druid
 
 ### Towns:
 [[wiki/content/Locations/Lullin|Lullin]]
-[[Danaus]]
+[[wiki/content/Locations/Danaus]]
 [[wiki/content/Locations/Banu|Banu]]
 
 ### Plot Points:

@@ -16,7 +16,7 @@ Everyone in Frey is a Dragon disguised as a Human.
 
 Sickness was invented by priests to sell cure spells.
 
-The Dwarves have kidnapped and are trying to ransom back one of the daughters of [[Artorious]], the Sultan of [[later/Locations/Ashgrove/Banu]]
+The Dwarves have kidnapped and are trying to ransom back one of the daughters of [[Artorious]], the Sultan of [[wiki/content/Locations 1/Ashgrove/Banu]]
 
 Gnomes are just dwarves that can't grow beards.
 
@@ -51,5 +51,5 @@ The squirrels are all mind controlled by the Druids and Warlocks from the Unders
 
 All of the blacksmiths are replacing the copper in equipment with mud.
 
-A Bake Kujira has been spotted on the shorelines between the [[Wroughtlands]] and [[later/Locations/Ashgrove/Banu]]
+A Bake Kujira has been spotted on the shorelines between the [[Wroughtlands]] and [[wiki/content/Locations 1/Ashgrove/Banu]]
 ![[Kujira.jpg]]

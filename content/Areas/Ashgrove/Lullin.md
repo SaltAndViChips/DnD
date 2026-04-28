@@ -39,7 +39,7 @@ marker: default,1895.8858628826065,2245.7711370484753,,Frozenforge Tavern,,
 
 ```
 
-Lullin hosts the [[Festival of Ends]] once every 70 years.
+Lullin hosts the [[wiki/content/Notes/Festival of Ends]] once every 70 years.
 
 The streets of Lullin are carved with Nevermelt ice, filled with undying fire.
 
