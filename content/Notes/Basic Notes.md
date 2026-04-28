@@ -16,19 +16,19 @@ Tiefling Druid
 
 ### Tjorborn - Tristan
 [Sheet](https://www.dndbeyond.com/characters/124479641)
-> Dwarf Barbarian 
+Dwarf Barbarian 
 
 ### Char - Kodiak
 [Sheet](https://www.dndbeyond.com/characters/124693060)
-> Tortle Wild Magic Sorcerer
+Tortle Wild Magic Sorcerer
 
 ### Snad - Koopas
 [Sheet](https://www.dndbeyond.com/characters/124783447)
-> Warlock Kobold
+Warlock Kobold
 
 ### Mike - Murblub
 [Sheet](https://www.dndbeyond.com/characters/124901765)
-> Changling Rogue
+Changling Rogue
 
 ## Notable Locations:
 
@@ -37,9 +37,9 @@ Tiefling Druid
 [[Celesion]]
 
 ### Towns:
-[[wiki/content/Locations/Lullin|Lullin]]
-[[wiki/content/Locations/Danaus]]
-[[wiki/content/Locations/Banu|Banu]]
+[[Lullin (Dev)]]
+[[Danaus]]
+[[later/Locations/Ashgrove/Banu]]
 
 ### Plot Points:
 [[Changing of Leaves]]

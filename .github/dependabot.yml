@@ -8,8 +8,4 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "hourly"
-    groups:
-      esbuild:
-        patterns:
-          - "esbuild*"
+      interval: "weekly"

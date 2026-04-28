@@ -16,7 +16,7 @@ Everyone in Frey is a Dragon disguised as a Human.
 
 Sickness was invented by priests to sell cure spells.
 
-The Dwarves have kidnapped and are trying to ransom back one of the daughters of [[Artorious]], the Sultan of [[wiki/content/Locations 1/Ashgrove/Banu]]
+The Dwarves have kidnapped and are trying to ransom back one of the daughters of [[Artorious]], the Sultan of [[later/Locations/Ashgrove/Banu]]
 
 Gnomes are just dwarves that can't grow beards.
 
@@ -37,7 +37,7 @@ The ocean didn't exist until [[Venthrial]] used create water A LOT.
 Dragons are actually all just polymorphed wizards, Dragons don't exist.
 
 The whole continent is secretly controlled by Sahuagin
-![[Frogmen.jpg]]
+![[Pasted image 20240523004704.jpg]]
 
 All other spellcasters are actually Warlocks who lack the confidence to admit they can't do magic on their own.
 
@@ -51,5 +51,5 @@ The squirrels are all mind controlled by the Druids and Warlocks from the Unders
 
 All of the blacksmiths are replacing the copper in equipment with mud.
 
-A Bake Kujira has been spotted on the shorelines between the [[Wroughtlands]] and [[wiki/content/Locations 1/Ashgrove/Banu]]
-![[Kujira.jpg]]
+A Bake Kujira has been spotted on the shorelines between the [[Wroughtlands]] and [[later/Locations/Ashgrove/Banu]]
+![[deckofhorrorsii-005.jpg]]
